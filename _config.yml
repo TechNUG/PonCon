@@ -110,7 +110,7 @@ venueBigImage: "venue.jpeg"
 # venueSmallImage2: "venue_2.jpg"
 # venueSmallImage3: "venue_3.jpg"
 venueTitle: "United Shore Headquarters"
-venueFeatures: ["585 S Blvd E", "Pontiac, MI 48341","<a href=\"https://www.unitedshore.com/\"/>"]
+venueFeatures: ["585 S Blvd E", "Pontiac, MI 48341","https://www.unitedshore.com/"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
