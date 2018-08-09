@@ -104,12 +104,12 @@ mapMobileCenterCoordinates: "42.37, 83.15"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue.jpeg"
-# venueSmallImage1: "venue_1.jpg"
+# venueBigImage: "venue.jpeg"
+venueSmallImage1: "venue.jpeg"
 # venueSmallImage2: "venue_2.jpg"
 # venueSmallImage3: "venue_3.jpg"
 venueTitle: "United Shore Headquarters"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
