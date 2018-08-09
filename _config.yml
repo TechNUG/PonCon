@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees"}
- - {count: "8", info: "hours"}
- - {count: "6", info: "speakers"}
- - {count: "1", info: "amazing conference"}
+ {count: "100", specialCharacter: "+", info: "attendees"}
+ {count: "8", info: "hours"}
+ {count: "6", info: "speakers"}
+ {count: "1", info: "amazing conference"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
