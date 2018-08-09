@@ -130,7 +130,7 @@ twitterFeed: "https://twitter.com/PontiacTechCon"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Prices"
 ticketsInfo: ""
 ticketsOffers:
  -
