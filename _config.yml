@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "PON CON 2018"
+email: "vp@technug.org"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/poncon"
 url: "https://technug.github.io/poncon/"
@@ -74,7 +74,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from Metro Detroit"}
+ - {count: "6", info: "industry leading speakers"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
