@@ -167,8 +167,8 @@ ticketsOffers:
   ticketContentList: ["Great Content", "Great Swag"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-09-21T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  # soldOut: true
+  # soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
