@@ -34,9 +34,9 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# # Documents
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
@@ -82,25 +82,25 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "United Shore"
-eventLocationLink: "https://www.unitedshore.com/"
-eventStreetAddress: "585 S Blvd E"
-eventAddressLocality: "Pontiac"
-eventAddressLocalityRegion: "MI"
-eventPostalCode: "48341"
-eventAddressCountry: "United States"
-eventStartTime: "2018-09-22T08:00"
-eventDoorTime: "08:00"
-eventEndTime: "2018-09-22T18:00"
-eventPlaceCoordinates: "42.37, 83.15"
-mapCenterCoordinates: "42.37, 83.15"
-mapMobileCenterCoordinates: "42.37, 83.15"
+# # Location Block
+# locationBlockTitle: "Location"
+# eventLocationName: "United Shore"
+# eventLocationLink: "https://www.unitedshore.com/"
+# eventStreetAddress: "585 S Blvd E"
+# eventAddressLocality: "Pontiac"
+# eventAddressLocalityRegion: "MI"
+# eventPostalCode: "48341"
+# eventAddressCountry: "United States"
+# eventStartTime: "2018-09-22T08:00"
+# eventDoorTime: "08:00"
+# eventEndTime: "2018-09-22T18:00"
+# eventPlaceCoordinates: "42.37, 83.15"
+# mapCenterCoordinates: "42.37, 83.15"
+# mapMobileCenterCoordinates: "42.37, 83.15"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -109,7 +109,7 @@ venueBigImage: "venue.jpeg"
 # venueSmallImage2: "venue_2.jpg"
 # venueSmallImage3: "venue_3.jpg"
 venueTitle: "United Shore Headquarters"
-venueFeatures: ["585 S Blvd E", "Pontiac, MI 48341"]
+venueFeatures: ["585 S Blvd E", "Pontiac, MI 48341","https://www.unitedshore.com/"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -117,16 +117,16 @@ tweetsFeedTitle: "What's Up?"
 twitterHashTag: "PonCon2018"
 twitterFeed: "https://twitter.com/PontiacTechCon"
 
-# Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+# # Partners Block
+# organizersTitle: "Organizers"
+# partnersTitle: "Partners"
+# partnersC4sponsorsButton: "Become a sponsor"
 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+# # Subscribe Block
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "Subscribe for updates"
+# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -172,36 +172,36 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+#  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/PontiacTechCon", icon: "twitter"}
  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+#  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+   - {link: "https://www.meetup.com/Technology-Networking-User-Group/", text: "Meetup"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:vp@technug.org", text: "vp@technug.org"}
+#  -
+#   title: "FAQ"
+#   links:
+#    - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "PontiacTechCon"
 
 # Speakers List Block
 showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "We are a professional group of software developers collaborating to hone our craft and have fun. Look forward to the talks and the food!"
 
 # # Logistics Find Way Block
 # findWayTitle: "Find your way here"
