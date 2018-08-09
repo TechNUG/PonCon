@@ -161,7 +161,7 @@ ticketsOffers:
   price: "$35"
   priceCurrency: ""
   ticketsNumber: ""
-  ribbon: "-36%"
+  ribbon: "-46%"
   buyButtonLink: "http://poncon.eventbrite.com"
   buyButtonText: "Buy Now"
   additionalInfo: "This is an option if you are looking for a lower price point"
