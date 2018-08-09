@@ -53,7 +53,8 @@ rightNavigationButtons:
  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
 
 # Hero Block
-heroImage: "pon con primary logo_final.png"
+# heroImage: "pon con primary logo_final.png"
+heroImage: "hero.jpg"
 heroTitle: "PON CON <typeout>"
 eventDate: "September 22nd, 2018"
 typeoutTextValues: '"", "2018"'
@@ -130,7 +131,7 @@ twitterFeed: "https://twitter.com/PontiacTechCon"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: ""
 ticketsOffers:
  -
   name: "Early Bird"
