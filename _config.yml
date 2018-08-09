@@ -134,8 +134,8 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "55"
-  priceCurrency: "USD"
+  price: "$55"
+  priceCurrency: ""
   ticketsNumber: ""
   ribbon: "-27%"
   buyButtonLink: "http://poncon.eventbrite.com"
@@ -145,8 +145,8 @@ ticketsOffers:
   validThrough: "2018-09-07T23:59"
  -
   name: "Normal"
-  price: "75"
-  priceCurrency: "USD"
+  price: "$75"
+  priceCurrency: ""
   ticketsNumber: ""
   featured: true
   buyButtonLink: "http://poncon.eventbrite.com"
@@ -157,8 +157,8 @@ ticketsOffers:
   disabled: true
  -
   name: "No Food"
-  price: "35"
-  priceCurrency: "USD"
+  price: "$35"
+  priceCurrency: ""
   ticketsNumber: ""
   ribbon: "-36%"
   buyButtonLink: "http://poncon.eventbrite.com"
