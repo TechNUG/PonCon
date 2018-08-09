@@ -4,52 +4,52 @@
   description: "When you're doing the work alongside those you manage, you may be seen as a servant leader. But what does that mean? What is servant leadership? Sam Walton of Walmart, Jack Kahl of Manco (Duck Tape), and many others have blazed this trail. For those of us who enjoy both our tech and management roles, servant leadership is something to understand how we can best serve those that we lead while in the trenches alongside them. In this session, we will explore what makes a great servant leader and how we can stay techies while being managers as well."
   subtype: session
   speakers: [1]
-  language: en
-  complexity: ""
-  video: ""
+  language: null
+  complexity: null
+  video: null
 -
   id: 002
   title: "Let’s Talk About Mental Health"
   description: "It’s a great time to be in technology. And yet despite the improvement in our tools, we somehow don’t spend time talking about how to maintain our most important tool - the one between our ears. Your mental health is arguably the single most important factor in your ability to perform well, avoid burnout, and build resiliency, but we shroud the topic in secrecy, stigma, and co-opted clinical language that makes us think we know what's going on. We often don't even speak of what we feel to family and friends until we're facing a crisis."
   subtype: session
   speakers: [2]
-  language: en
-  complexity: ""
-  video: ""
+  language: null
+  complexity: null
+  video: null
 -
   id: 003
   title: "The Microservice Manifesto"
   description: "Microservices have been a hot-button topic for a few years, but what are they, why would I need them, and how will they help me? The Microservice Manifesto sets out to put forward an opinionated but dogma-free approach to bringing Microservices into your organization regardless of language or technology stack that will help you get products delivered faster, more securely, and error free."
   subtype: session
   speakers: [3]
-  language: en
-  complexity: ""
-  video: ""
+  language: null
+  complexity: null
+  video: null
 -
   id: 004
   title: "SOLID JavaScript"
   description: "Many .Net and Java developers live by the SOLID principles to make their software designs more understandable, flexible, and maintainable. As more business logic moves to the front end with frameworks like React and Angular, developers often lose touch with these principles and resort to more reactionary code. It doesn’t have to be that way. In this session, you will learn how to apply all five of the SOLID principles to your front-end JavaScript applications."
   subtype: session
   speakers: [4]
-  language: en
-  complexity: ""
-  video: ""
+  language: null
+  complexity: null
+  video: null
 -
   id: 005
   title: "Eric's Topic is TBD"
   description: ""
   subtype: session
   speakers: [5]
-  language: en
-  complexity: ""
-  video: ""
+  language: null
+  complexity: null
+  video: null
 -
   id: 006
   title: "OWASP's Topic is TBD"
   description: ""
   subtype: session
   speakers: [6]
-  language: en
-  complexity: ""
-  video: ""
+  language: null
+  complexity: null
+  video: null
 
