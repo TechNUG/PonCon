@@ -21,17 +21,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/ArthurDoler"}
 - 
-  id: 3
-  name: "Chase"
-  surname: "Aucoin"
-  company: "AppDynamics"
-  title: "Technical Evangelist"
-  bio: 'I've helped fortune 50-500 companies in the US and large organizations all over the globe tackle some of the worlds hardest challenges and get the most out of their software development lifecycle using microservices. So you'll learn the do's and don'ts that will make you more successful with your microservice implementations.'
-  thumbnailUrl: chase.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ChaseAucoin"}
-- 
   id: 4
   name: "Jon"
   surname: "Mills"
