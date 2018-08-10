@@ -55,10 +55,10 @@ rightNavigationButtons:
 # Hero Block
 # heroImage: "pon con primary logo_final.png"
 heroImage: "pon con primary logo_final.png"
-heroTitle: ""
+# heroTitle: ""
 eventDate: "September 22nd, 2018"
-typeoutTextValues: '"", "2018"'
-typeoutFallback: "2018"
+# typeoutTextValues: '"", "2018"'
+# typeoutFallback: "2018"
 heroButtons:
   - {link: "http://poncon.eventbrite.com", text: "Buy tickets"}
 
