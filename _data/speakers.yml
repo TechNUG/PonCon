@@ -55,12 +55,12 @@
     - {name: "twitter", link: "https://twitter.com/pottereric"}
 - 
   id: 6
-  name: "OWASP"
-  surname: ""
-  company: ""
-  title: ""
+  name: "Craig"
+  surname: "Mroczka"
+  company: "OWASP"
+  title: "Chapter Lead"
   bio: ''
-  thumbnailUrl: avatar.png
+  thumbnailUrl: Craig.jpeg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/Tech_NUG"}

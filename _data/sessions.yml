@@ -36,8 +36,8 @@
   video: null
 -
   id: 005
-  title: "Eric's Topic is TBD"
-  description: ""
+  title: "Machine Learning the Easy Way: Azure Cognitive Services"
+  description: "Machine Learning is revolutionizing how we process data. But the learning curve on machine learning algorithms can be steep. Luckily, Azure Cognitive Services provides a way for developers to analyze images, videos, and text with nothing more than a call to a REST API. Take advantage of powerful machine learning models just by calling one of the services. In this session, you will learn what services are available and how you can use them."
   subtype: session
   speakers: [5]
   language: null
@@ -45,11 +45,55 @@
   video: null
 -
   id: 006
-  title: "OWASP's Topic is TBD"
+  title: "Application Security"
   description: ""
   subtype: session
   speakers: [6]
   language: null
   complexity: null
   video: null
-
+-
+  id: 007
+  title: "Break"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 008
+  title: "Lunch"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 009
+  title: "Registration and Breakfast"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 010
+  title: "Opening Remarks"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 011
+  title: "Closing Remarks"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
