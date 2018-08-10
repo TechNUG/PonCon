@@ -28,7 +28,7 @@ organizerLogo: "/img/seo/tnug-logo.png"
 organizerLink: "https://www.meetup.com/Technology-Networking-User-Group/"
 
 # Head
-metaKeywords: "event, poncon, .NET, technug, tnug, t.nug, programming, developers, michigan"
+metaKeywords: "event, poncon, .NET, technug, tnug, t.nug, programming, developers, michigan, technology, networking"
 twitterAccount: "@PontiacTechCon"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -41,10 +41,10 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+#  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -79,7 +79,7 @@ statisticBlock:
  - {count: "1", info: "amazing conference"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+# latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -91,7 +91,7 @@ rockstarSpeakersButtonText: "See all speakers"
 locationBlockTitle: "Location"
 eventLocationName: "United Shore"
 eventLocationLink: "https://www.unitedshore.com/"
-eventStreetAddress: "585 S Blvd E"
+eventStreetAddress: "585 South Blvd E"
 eventAddressLocality: "Pontiac"
 eventAddressLocalityRegion: "MI"
 eventPostalCode: "48341"
@@ -110,7 +110,7 @@ venueBigImage: "venue.jpeg"
 # venueSmallImage2: "venue_2.jpg"
 # venueSmallImage3: "venue_3.jpg"
 venueTitle: "United Shore Headquarters"
-venueFeatures: ["585 S Blvd E", "Pontiac, MI 48341","https://www.unitedshore.com/"]
+venueFeatures: ["585 South Blvd E", "Pontiac, MI 48341","https://www.unitedshore.com/"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -134,40 +134,39 @@ ticketsTitle: "Prices"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "$55"
-  priceCurrency: ""
-  ticketsNumber: ""
-  ribbon: "-27%"
-  buyButtonLink: "http://poncon.eventbrite.com"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Great Content", "Great Swag", "Breakfast & Lunch"]
-  validFrom: "2018-08-01T00:00"
-  validThrough: "2018-09-07T23:59"
- -
-  name: "Normal"
-  price: "$75"
-  priceCurrency: ""
-  ticketsNumber: ""
-  featured: true
-  buyButtonLink: "http://poncon.eventbrite.com"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Great Content", "Great Swag", "Breakfast & Lunch"]
-  validFrom: "2018-09-07T23:59"
-  validThrough: "2018-09-21T23:59"
-  disabled: true
- -
   name: "No Food"
   price: "$35"
   priceCurrency: ""
   ticketsNumber: ""
-  ribbon: "-46%"
+  ribbon: "-36%"
   buyButtonLink: "http://poncon.eventbrite.com"
   buyButtonText: "Buy Now"
   additionalInfo: "This is an option if you are looking for a lower price point"
   ticketContentList: ["Great Content", "Great Swag"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-09-21T23:59"
+ -
+  name: "Normal"
+  price: "$55"
+  priceCurrency: ""
+  ticketsNumber: ""
+  featured: true
+  buyButtonLink: "http://poncon.eventbrite.com"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Great Content", "Great Swag", "Breakfast & Lunch"]
+  validFrom: "2018-08-01T00:00"
+  validThrough: "2018-09-15T23:59"
+ -
+  name: "After Party Admission"
+  price: "$12.50"
+  priceCurrency: ""
+  ticketsNumber: ""
+  buyButtonLink: "http://poncon.eventbrite.com"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Add the after pary to your ticket"
+  ticketContentList: ["Great Food", "Networking"]
+  validFrom: "2018-08-01T00:00"
+  validThrough: "2018-09-15T23:59"
   # soldOut: true
   # soldOutText: "Sold Out"
 
@@ -175,7 +174,7 @@ ticketsOffers:
 socialLinks:
 #  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/PontiacTechCon", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://facebook.com/troynug", icon: "facebook"}
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

@@ -5,34 +5,34 @@
     - {title: "Auditorium", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "08:00",
-    	endTime: "10:00",
-    	sessionIds: [009]
+        startTime: "08:00",
+        endTime: "10:00",
+        sessionIds: [009]
     }
     - {
-    	startTime: "09:30",
-    	endTime: "10:00",
-    	sessionIds: [010]
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionIds: [010]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:55",
-    	sessionIds: [001]
+        startTime: "10:00",
+        endTime: "10:55",
+        sessionIds: [001]
     }
     - {
-    	startTime: "10:55",
-    	endTime: "11:00",
-    	sessionIds: [007]
+        startTime: "10:55",
+        endTime: "11:00",
+        sessionIds: [007]
     }
     - {
-    	startTime: "11:00",
-    	endTime: "11:55",
-    	sessionIds: [004]
+        startTime: "11:00",
+        endTime: "11:55",
+        sessionIds: [004]
     }
     - {
-    	startTime: "11:55",
-    	endTime: "01:00",
-    	sessionIds: [008]
+        startTime: "11:55",
+        endTime: "01:00",
+        sessionIds: [008]
     }
     - {
         startTime: "01:00",
@@ -40,9 +40,9 @@
         sessionIds: [006]
     }
     - {
-    	startTime: "01:55",
-    	endTime: "02:00",
-    	sessionIds: [007]
+        startTime: "01:55",
+        endTime: "02:00",
+        sessionIds: [007]
     }
     - {
         startTime: "02:00",
@@ -50,9 +50,9 @@
         sessionIds: [003]
     }
     - {
-    	startTime: "02:55",
-    	endTime: "03:00",
-    	sessionIds: [007]
+        startTime: "02:55",
+        endTime: "03:00",
+        sessionIds: [007]
     }
     - {
         startTime: "03:00",
@@ -60,9 +60,9 @@
         sessionIds: [005]
     }
     - {
-    	startTime: "03:55",
-    	endTime: "04:00",
-    	sessionIds: [007]
+        startTime: "03:55",
+        endTime: "04:00",
+        sessionIds: [007]
     }
     - {
         startTime: "04:00",
@@ -70,9 +70,9 @@
         sessionIds: [002]
     }
     - {
-    	startTime: "04:55",
-    	endTime: "05:00",
-    	sessionIds: [007]
+        startTime: "04:55",
+        endTime: "05:00",
+        sessionIds: [007]
     }
     - {
         startTime: "05:00",
