@@ -2,7 +2,7 @@
   date: "2018-09-22"
   dateReadable: "September 22nd"
   tracks: 
-    - {title: "Auditorium", color: "#e91e63"}
+    - {title: "", color: "#e91e63"}
   timeslots:
     - {
         startTime: "08:00",
