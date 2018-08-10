@@ -54,8 +54,8 @@ rightNavigationButtons:
 
 # Hero Block
 # heroImage: "pon con primary logo_final.png"
-heroImage: "hero.jpg"
-heroTitle: "PON CON <typeout>"
+heroImage: "pon con primary logo_final.png"
+heroTitle: ""
 eventDate: "September 22nd, 2018"
 typeoutTextValues: '"", "2018"'
 typeoutFallback: "2018"
