@@ -118,9 +118,9 @@ tweetsFeedTitle: "What's Up?"
 twitterHashTag: "PonCon2018"
 twitterFeed: "https://twitter.com/PontiacTechCon"
 
-# # Partners Block
+# Partners Block
 # organizersTitle: "Organizers"
-# partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 # partnersC4sponsorsButton: "Become a sponsor"
 
 # # Subscribe Block
@@ -174,7 +174,7 @@ ticketsOffers:
 socialLinks:
 #  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/PontiacTechCon", icon: "twitter"}
- - {link: "https://facebook.com/troynug", icon: "facebook"}
+# - {link: "https://facebook.com/troynug", icon: "facebook"}
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
