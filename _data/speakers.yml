@@ -33,15 +33,15 @@
     - {name: "twitter", link: "https://twitter.com/ChaseAucoin"}
 - 
   id: 4
-  name: "Jon"
-  surname: "Mills"
-  company: "Epiq"
-  title: "Manager"
-  bio: 'Jonathan Mills is a Pluralsight Author, Microsoft MVP, and International Speaker on topics ranging from Node.js and Angular to Management and Agile Development. Jon is a consultant with Paige Technologies and helps our clients deal with the constantly changing landscape of software development. Jon also has the opportunity to promote positive management and project practices. Jon’s current tech stack is JavaScript including React and Node but has enterprise experience in both Angular and Angularjs.'
-  thumbnailUrl: jon.jpg
+  name: "Gaines"
+  surname: "Kergosien"
+  company: "UBS"
+  title: "Associate Director"
+  bio: 'Gaines Kergosien is an associate director at UBS, organizer of Music City Code conference, Microsoft MVP, and serves as board member for the Nashville Technology Council and Nashville .NET User Group. He also presents at software development conferences throughout the United States. With over 15 years in solutions development, his work includes consulting for such companies as Bridgestone, Deloitte, Hospital Corporation of America (HCA), American General (AIG), Lexis Nexis, Gibson Guitars, and Cardinal Healthcare.'
+  thumbnailUrl: gaines.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/jonathanfmills"}
+    - {name: "twitter", link: "https://twitter.com/gainesk"}
 - 
   id: 5
   name: "Eric"
