@@ -57,9 +57,9 @@
   id: 6
   name: "Craig"
   surname: "Mroczka"
-  company: "OWASP"
+  company: "OWASP Detroit Chapter"
   title: "Chapter Lead"
-  bio: ''
+  bio: 'IT is Craig’s second calling. Like many, Craig did IT work for fun in his spare time while working a full-time job in another field. When Craig had the opportunity, he went back to school to earn a degree in IT Security. He has been in the IT field full time since 2013 and hasn’t looked back. Craig is a father, husband and a really bad programmer. Craig is currently working as a vulnerability and Threat analysis and is one of the chapter leads for the OWASP Detroit chapter. Craig has a passion for Security and learning new ways to do things.'
   thumbnailUrl: Craig.jpeg
   rockstar: true
   social: 

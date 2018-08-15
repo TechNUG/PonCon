@@ -46,7 +46,7 @@
 -
   id: 006
   title: "Application Security"
-  description: ""
+  description: "Application Security based on OWASP standards."
   subtype: session
   speakers: [6]
   language: null
@@ -64,7 +64,7 @@
 -
   id: 008
   title: "Lunch"
-  description: ""
+  description: "Southern BBQ Buffet with Pulled Pork, Spiced Bone-in Chicken, Slider Buns and two sides and baked cookies for desert."
   subtype: session
   speakers: null
   language: null
