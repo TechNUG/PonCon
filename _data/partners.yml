@@ -1,6 +1,6 @@
 - 
   group: "Sponors"
   elements: 
-    - {name: "United Shore", description: "United Shore", link: "http://www.UnitedShore.com", imageUrl: "google.svg"}
-    - {name: "App Dynamics", description: "App Dynamics", link: "http://www.appdynamics.com/", imageUrl: "gdg-lviv.svg"}
-    - {name: "OWASP Detroit Chapter", description: "OWASP Detroit Cahpter is a professional association of global members and is open to anyone interested in learning more about software security", link: "https://www.owasp.org/index.php/Detroit", imageUrl: "gdg-lviv.svg"}
+    - {name: "United Shore", description: "United Shore is the home to the number #1 Wholesale Lender UWM.", link: "http://www.UnitedShore.com", imageUrl: "pon con primary logo_final.svg"}
+    - {name: "App Dynamics", description: "App Dynamics", link: "http://www.appdynamics.com/", imageUrl: "AppDynamics.jpg"}
+    - {name: "OWASP Detroit Chapter", description: "OWASP Detroit Cahpter is a professional association of global members and is open to anyone interested in learning more about software security", link: "https://www.owasp.org/index.php/Detroit", imageUrl: "OWASP.jpg"}

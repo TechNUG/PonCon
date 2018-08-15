@@ -119,7 +119,7 @@ twitterHashTag: "PonCon2018"
 twitterFeed: "https://twitter.com/PontiacTechCon"
 
 # Partners Block
-# organizersTitle: "Organizers"
+organizersTitle: "Organizers"
 partnersTitle: "Sponsors"
 # partnersC4sponsorsButton: "Become a sponsor"
 
