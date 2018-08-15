@@ -27,8 +27,8 @@
   video: null
 -
   id: 004
-  title: "SOLID JavaScript"
-  description: "Many .Net and Java developers live by the SOLID principles to make their software designs more understandable, flexible, and maintainable. As more business logic moves to the front end with frameworks like React and Angular, developers often lose touch with these principles and resort to more reactionary code. It doesn’t have to be that way. In this session, you will learn how to apply all five of the SOLID principles to your front-end JavaScript applications."
+  title: "From Developer to Data Scientist"
+  description: "Due to recent advances in technology, humanity is collecting vast amounts of data at an unprecedented rate, making the skills necessary to mine insights from this data increasingly valuable. So what does it take for a Developer to enter the world of data science?   Join me on a journey into the world of big data and machine learning where we will explore what the work actually looks like, identify which skills are most important, and design a road map for how you too can join this exciting and profitable industry."
   subtype: session
   speakers: [4]
   language: null
