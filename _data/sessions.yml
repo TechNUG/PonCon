@@ -46,7 +46,7 @@
 -
   id: 006
   title: "Application Security"
-  description: "Application Security based on OWASP standards."
+  description: "To many developers, security is thought of more as an afterthought or a nuisance. However ignoring it can have a devastating impact on your company and your reputation as a developer. We'll talk about OWASP, what it is, and why you should care."
   subtype: session
   speakers: [6]
   language: null
