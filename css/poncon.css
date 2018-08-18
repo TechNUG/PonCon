@@ -1,7 +1,6 @@
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1920px) {
     [class="top-section-hero"]
     {
-        height:auto !important;
-        background: #000000;
+        height:100%;
     }
 }
