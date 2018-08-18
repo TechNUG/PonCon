@@ -1,6 +1,13 @@
-@media only screen and (max-width: 1920px) {
+/* @media only screen and (max-width: 1920px) {
     [class="top-section-hero"]
     {
         height:100%;
     }
+} */
+
+.fill {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url('path/to/image.jpg');
 }
