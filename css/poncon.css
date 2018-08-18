@@ -9,5 +9,5 @@
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: url('path/to/image.jpg');
+    background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');
 }
