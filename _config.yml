@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -9,13 +9,13 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "PON CON 2018"
+title: "PonCon 2018"
 email: "vp@technug.org"
-description: "PON CON is a one day single track conference .NET focused"
+description: "PonCon is a one day single track conference .NET focused"
 baseurl: ""
 url: "http://poncon.us"
 permalink: "/blog/:title"
-# googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-123056971-3"
 # googleAnalyticsSiteUrl: "gdg-x.github.io"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -63,7 +63,7 @@ heroImage: "pon_con_banner_blk_background.jpg"
   # - {link: "http://poncon.eventbrite.com", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About PON CON"
+aboutTitle: "About PonCon"
 aboutBlock:
  - { title: "", text: "The Technology and Networking User Group (T.NUG) presents the Pontiac Technology Conference (PonCon). For years T.NUG has been offering high quality monthly meetings for information technology professionals in and around Southeast Michigan. T.NUG is tackling it's next big adventure:: a one-day one-track conference open to our attendees. Affectionately nicknamed PonCon, the Pontiac Technology Conference will host a series of speakers at the brand new United Shore HQ in Pontiac, MI. You can expect excellent content, a catered lunch, and ample networking opportunities with your peers and fellow professionals in the area."}
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
@@ -163,7 +163,7 @@ ticketsOffers:
   ticketsNumber: ""
   buyButtonLink: "http://poncon.eventbrite.com"
   buyButtonText: "Buy Now"
-  additionalInfo: "Add the after pary to your ticket"
+  additionalInfo: "Add the after party to your ticket"
   ticketContentList: ["Great Food", "Networking"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-09-15T23:59"
@@ -174,7 +174,7 @@ ticketsOffers:
 socialLinks:
 #  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/PontiacTechCon", icon: "twitter"}
-# - {link: "https://www.facebook.com/groups/technug/", icon: "facebook"}
+ - {link: "https://www.facebook.com/PontiacTechConference", icon: "facebook"}
 #  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
