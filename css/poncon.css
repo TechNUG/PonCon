@@ -9,9 +9,26 @@
     
 } */
 
+.top-section {
+	min-height: 450px;
+}
+
 .fill {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    /* background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}'); */
+}
+
+.right-nav-button {
+	margin-bottom: 5px;
+}
+
+.logo {
+	background-repeat: round;
+}
+
+.logo-navbar {
+	-webkit-transform: scale(2.0);
+	transform: scale(2.0);
+	margin: 20px 20px 0 -37px;
 }
