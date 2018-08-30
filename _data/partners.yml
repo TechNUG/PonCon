@@ -1,6 +1,6 @@
 - 
   group: ""
   elements: 
-    - {name: "United Shore", description: "United Shore is the home to the number #1 Wholesale Lender UWM.", link: "http://www.UnitedShore.com", imageUrl: "unitedshore.jpg"}
+    - {name: "United Shore", description: "United Shore is the home to the number #1 Wholesale Lender UWM.", link: "http://www.UnitedShore.com", imageUrl: "unitedshore.svg"}
     - {name: "App Dynamics", description: "App Dynamics", link: "http://www.appdynamics.com/", imageUrl: "AppDynamics.jpg"}
     - {name: "OWASP Detroit Chapter", description: "OWASP Detroit Cahpter is a professional association of global members and is open to anyone interested in learning more about software security", link: "https://www.owasp.org/index.php/Detroit", imageUrl: "OWASP.jpg"}

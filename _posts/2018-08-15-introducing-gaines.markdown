@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speaker change"
+title:  "New speaker added"
 date:   2018-08-15 4:50:00
 isStaticPost: false
 ---
