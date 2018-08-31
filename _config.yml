@@ -138,10 +138,10 @@ ticketsInfo: ""
 ticketsOffers:
  -
   name: "Conference Only"
-  price: "$35"
+  price: "$20"
   priceCurrency: ""
   ticketsNumber: ""
-  ribbon: "-36%"
+  ribbon: "-$15"
   buyButtonLink: "http://poncon.eventbrite.com#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "This is an option if you are looking for a lower price point"
@@ -150,7 +150,7 @@ ticketsOffers:
   validThrough: "2018-09-21T23:59"
  -
   name: "Standard"
-  price: "$55"
+  price: "$35"
   priceCurrency: ""
   ticketsNumber: ""
   featured: true
