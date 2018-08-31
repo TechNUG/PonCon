@@ -7,9 +7,11 @@ isStaticPost: false
 
 We have good news for you! The planning committee has heard your feedback and we've lowered our ticket pricing. Here's a breakdown of the new pricing structure:
 
-**Standard Ticket: $35
-Conference Only/No Food Ticket: $20
-After Party Ticket: No change**
+**Standard Ticket: $35**
+
+**Conference Only/No Food Ticket: $20**
+
+**After Party Ticket: No change**
 
 Some of you have taken advantage of discount codes. Each discount code now discounts **$5 less** than it did before. For those of you without discount codes, follow us on Twitter [@PontiacTechCon](https://twitter.com/PontiacTechCon) and Facebook [PontiacTechConference](https://www.facebook.com/PontiacTechConference) to find them! If you'd like to retroactively apply a discount code please shoot us an email at vp@technug.org and we'll set you up.
 
