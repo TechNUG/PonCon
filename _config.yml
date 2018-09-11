@@ -166,7 +166,7 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: ""
   buyButtonLink: "http://poncon.eventbrite.com#tickets"
-  buyButtonText: "Buy Now"\
+  buyButtonText: "Buy Now"
   additionalInfo: "Add the after party to your ticket"
   ticketContentList: ["Join us for the after party", "Network with the speakers"]
   validFrom: "2018-08-01T00:00"
