@@ -41,9 +41,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -120,6 +120,7 @@ tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "PonCon2018"
 twitterFeed: "https://twitter.com/PontiacTechCon"
+twitterAccountName: "PontiacTechCon"
 
 # Partners Block
 organizersTitle: "Organizer"
@@ -165,7 +166,7 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: ""
   buyButtonLink: "http://poncon.eventbrite.com#tickets"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Buy Now"\
   additionalInfo: "Add the after party to your ticket"
   ticketContentList: ["Join us for the after party", "Network with the speakers"]
   validFrom: "2018-08-01T00:00"

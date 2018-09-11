@@ -17,7 +17,7 @@
   title: "Psychology, philosophy, design, software. Not exhaustive. Speaker. Mental health advocate with lived experience. Not secretly a goat."
   bio: 'Arthur (or Art, take your pick) Doler is a software developer, data scientist, maker, mental health consumer, occasional writer (hopefully self-evidently), public speaker, and a human being (supposedly). He would describe himself as an autodidactic polymath, but only really smug and annoying people call themselves that, so he would instead say he has wide and varied interests. He is, on a wide scale of the entire human experience, generally okay.'
   thumbnailUrl: art.jpeg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/ArthurDoler"}
 - 
@@ -28,7 +28,7 @@
   title: "Technical Evangelist"
   bio: "I've helped fortune 50-500 companies in the US and large organizations all over the globe tackle some of the worlds hardest challenges and get the most out of their software development lifecycle using microservices. So you'll learn the do's and don'ts that will make you more successful with your microservice implementations."
   thumbnailUrl: chase.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/ChaseAucoin"}
 - 
@@ -55,12 +55,12 @@
     - {name: "twitter", link: "https://twitter.com/pottereric"}
 - 
   id: 6
-  name: "Craig"
-  surname: "Mroczka"
-  company: "OWASP Detroit Chapter"
-  title: "Chapter Lead"
-  bio: 'IT is Craig’s second calling. Like many, Craig did IT work for fun in his spare time while working a full-time job in another field. When Craig had the opportunity, he went back to school to earn a degree in IT Security. He has been in the IT field full time since 2013 and hasn’t looked back. Craig is a father, husband and a really bad programmer. Craig is currently working as a vulnerability and Threat analysis and is one of the chapter leads for the OWASP Detroit chapter. Craig has a passion for Security and learning new ways to do things.'
-  thumbnailUrl: Craig.jpeg
+  name: "Wolfgang"
+  surname: "Goerlich"
+  company: "CBI"
+  title: "Sr. Vice President for Strategic Security Programs"
+  bio: 'J Wolfgang Goerlich supports information security initiatives for clients in the healthcare, education, financial services, and energy verticals. In his current role with CBI, a cyber security consultancy firm, Wolfgang is the senior vice president for strategic security programs. Wolfgang also sponsors the Academy teams, providing mentoring and guidance to the junior-level talent. He is an active part of the security community and hosts a YouTube video series. Wolfgang regularly advises on and presents on the topics of risk management, incident response, business continuity, secure development life cycles, and more.'
+  thumbnailUrl: wolfgang.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/Tech_NUG"}
+    - {name: "twitter", link: "https://twitter.com/jwgoerlich"}
