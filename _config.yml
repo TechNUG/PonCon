@@ -14,7 +14,7 @@ email: "vp@technug.org"
 description: "PonCon is a one day single track conference for I.T. professionals"
 baseurl: ""
 url: "http://poncon.us"
-permalink: "/blog/:title"
+# permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-123056971-3"
 googleAnalyticsSiteUrl: "poncon.us"
 siteVerification: "EKvkxVTS8IdedHVHhQfU7Jo_Rkdh0OKnI6xnkgl0ukI"
@@ -43,14 +43,14 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
-rightNavigationButtons:
- - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+# bottomNavigationLinks:
+#  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+# rightNavigationButtons:
+#  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
 
 # Hero Block
 # heroImage: "pon con primary logo_final.png"
@@ -75,7 +75,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees"}
  - {count: "8", info: "hours"}
- - {count: "6", info: "speakers"}
+ - {count: "5", info: "speakers"}
  - {count: "1", info: "amazing conference"}
 
 # Latest News Block
@@ -97,9 +97,9 @@ eventAddressLocality: "Pontiac"
 eventAddressLocalityRegion: "MI"
 eventPostalCode: "48341"
 eventAddressCountry: "United States"
-eventStartTime: "2018-09-22T08:00AM"
+eventStartTime: "2019-09-28T08:00AM"
 eventDoorTime: "08:00"
-eventEndTime: "2018-09-22T06:00PM"
+eventEndTime: "2019-09-28T06:00PM"
 eventPlaceCoordinates: "42.37, 83.15"
 mapCenterCoordinates: "42.37, 83.15"
 mapMobileCenterCoordinates: "42.37, 83.15"
@@ -118,7 +118,7 @@ venueFeatures: ["585 South Blvd E", "Pontiac, MI 48341"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "PonCon2018"
+twitterHashTag: "PonCon2019"
 twitterFeed: "https://twitter.com/PontiacTechCon"
 twitterAccountName: "PontiacTechCon"
 
@@ -201,7 +201,7 @@ blogCommentsEnabled: true
 discusShortName: "PontiacTechCon"
 
 # Speakers List Block
-showSessions: true
+# showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
