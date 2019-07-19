@@ -1,66 +1,66 @@
-- 
-  id: 1
-  name: "Sarah"
-  surname: "Dutkiewicz"
-  company: "Cleveland Tech Events"
-  title: "Senior Web Developer"
-  bio: "Sarah – who goes by “sadukie” in the tech community – is a platform-agnostic technologist known for helping developers understand user experience and on boarding developers into new technologies in a short period of time. She also helps with promoting communities, engaging over social media, and helping non-technical teams understand how to work with their technical counterparts. Sarah is a native Clevelander and uses her local knowledge to help connect people – technical and non-technical – for common good. Sadukie knows how to identify the audience and get them to care. She knows her technology and holds a Bachelors of Science degree in Computer Science & Engineering Technology from the University of Toledo. Sarah is a Microsoft MVP, published technical author, frequent podcast/live coding guest, conference organizer, speaker, community advocate, software developer, wife, and mom."
-  thumbnailUrl: sarah.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/sadukie"}
-- 
-  id: 2
-  name: "Art"
-  surname: "Doler"
-  company: ""
-  title: "Psychology, philosophy, design, software. Not exhaustive. Speaker. Mental health advocate with lived experience. Not secretly a goat."
-  bio: 'Arthur (or Art, take your pick) Doler is a software developer, data scientist, maker, mental health consumer, occasional writer (hopefully self-evidently), public speaker, and a human being (supposedly). He would describe himself as an autodidactic polymath, but only really smug and annoying people call themselves that, so he would instead say he has wide and varied interests. He is, on a wide scale of the entire human experience, generally okay.'
-  thumbnailUrl: art.jpeg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ArthurDoler"}
-- 
-  id: 3
-  name: "Chase"
-  surname: "Aucoin"
-  company: "AppDynamics"
-  title: "Technical Evangelist"
-  bio: "I've helped fortune 50-500 companies in the US and large organizations all over the globe tackle some of the worlds hardest challenges and get the most out of their software development lifecycle using microservices. So you'll learn the do's and don'ts that will make you more successful with your microservice implementations."
-  thumbnailUrl: chase.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ChaseAucoin"}
-- 
-  id: 4
-  name: "Gaines"
-  surname: "Kergosien"
-  company: "UBS"
-  title: "Associate Director"
-  bio: 'Gaines Kergosien is an associate director at UBS, organizer of Music City Code conference, Microsoft MVP, and serves as board member for the Nashville Technology Council and Nashville .NET User Group. He also presents at software development conferences throughout the United States. With over 15 years in solutions development, his work includes consulting for such companies as Bridgestone, Deloitte, Hospital Corporation of America (HCA), American General (AIG), Lexis Nexis, Gibson Guitars, and Cardinal Healthcare.'
-  thumbnailUrl: gaines.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/gainesk"}
-- 
-  id: 5
-  name: "Eric"
-  surname: "Potter"
-  company: "Aptera Software"
-  title: "Software Architect"
-  bio: 'Eric is a Software Architect for Aptera Software and a Microsoft MVP for Visual Studio and Development Technologies. He works primarily in the .Net web platform but loves opportunities to try out other stacks. He has been developing high-quality custom software solutions since 2001. At Aptera, he has successfully delivered solutions for clients in a wide variety of industries. He loves to dabble in new and exciting technologies. In his spare time, he loves to tinker with Arduino projects. He fondly remembers what it was like to develop software for the Palm OS. He has an amazing wife and 5 wonderful children. He blogs at http://humbletoolsmith.com/ and you can follow him on twitter as @pottereric. '
-  thumbnailUrl: Eric.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/pottereric"}
-- 
-  id: 6
-  name: "Wolfgang"
-  surname: "Goerlich"
-  company: "CBI"
-  title: "Sr. Vice President for Strategic Security Programs"
-  bio: 'J Wolfgang Goerlich supports information security initiatives for clients in the healthcare, education, financial services, and energy verticals. In his current role with CBI, a cyber security consultancy firm, Wolfgang is the senior vice president for strategic security programs. Wolfgang also sponsors the Academy teams, providing mentoring and guidance to the junior-level talent. He is an active part of the security community and hosts a YouTube video series. Wolfgang regularly advises on and presents on the topics of risk management, incident response, business continuity, secure development life cycles, and more.'
-  thumbnailUrl: wolfgang.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jwgoerlich"}
+# - 
+#   id: 1
+#   name: "Sarah"
+#   surname: "Dutkiewicz"
+#   company: "Cleveland Tech Events"
+#   title: "Senior Web Developer"
+#   bio: "Sarah – who goes by “sadukie” in the tech community – is a platform-agnostic technologist known for helping developers understand user experience and on boarding developers into new technologies in a short period of time. She also helps with promoting communities, engaging over social media, and helping non-technical teams understand how to work with their technical counterparts. Sarah is a native Clevelander and uses her local knowledge to help connect people – technical and non-technical – for common good. Sadukie knows how to identify the audience and get them to care. She knows her technology and holds a Bachelors of Science degree in Computer Science & Engineering Technology from the University of Toledo. Sarah is a Microsoft MVP, published technical author, frequent podcast/live coding guest, conference organizer, speaker, community advocate, software developer, wife, and mom."
+#   thumbnailUrl: sarah.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/sadukie"}
+# - 
+#   id: 2
+#   name: "Art"
+#   surname: "Doler"
+#   company: ""
+#   title: "Psychology, philosophy, design, software. Not exhaustive. Speaker. Mental health advocate with lived experience. Not secretly a goat."
+#   bio: 'Arthur (or Art, take your pick) Doler is a software developer, data scientist, maker, mental health consumer, occasional writer (hopefully self-evidently), public speaker, and a human being (supposedly). He would describe himself as an autodidactic polymath, but only really smug and annoying people call themselves that, so he would instead say he has wide and varied interests. He is, on a wide scale of the entire human experience, generally okay.'
+#   thumbnailUrl: art.jpeg
+#   rockstar: false
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/ArthurDoler"}
+# - 
+#   id: 3
+#   name: "Chase"
+#   surname: "Aucoin"
+#   company: "AppDynamics"
+#   title: "Technical Evangelist"
+#   bio: "I've helped fortune 50-500 companies in the US and large organizations all over the globe tackle some of the worlds hardest challenges and get the most out of their software development lifecycle using microservices. So you'll learn the do's and don'ts that will make you more successful with your microservice implementations."
+#   thumbnailUrl: chase.jpg
+#   rockstar: false
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/ChaseAucoin"}
+# - 
+#   id: 4
+#   name: "Gaines"
+#   surname: "Kergosien"
+#   company: "UBS"
+#   title: "Associate Director"
+#   bio: 'Gaines Kergosien is an associate director at UBS, organizer of Music City Code conference, Microsoft MVP, and serves as board member for the Nashville Technology Council and Nashville .NET User Group. He also presents at software development conferences throughout the United States. With over 15 years in solutions development, his work includes consulting for such companies as Bridgestone, Deloitte, Hospital Corporation of America (HCA), American General (AIG), Lexis Nexis, Gibson Guitars, and Cardinal Healthcare.'
+#   thumbnailUrl: gaines.jpeg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/gainesk"}
+# - 
+#   id: 5
+#   name: "Eric"
+#   surname: "Potter"
+#   company: "Aptera Software"
+#   title: "Software Architect"
+#   bio: 'Eric is a Software Architect for Aptera Software and a Microsoft MVP for Visual Studio and Development Technologies. He works primarily in the .Net web platform but loves opportunities to try out other stacks. He has been developing high-quality custom software solutions since 2001. At Aptera, he has successfully delivered solutions for clients in a wide variety of industries. He loves to dabble in new and exciting technologies. In his spare time, he loves to tinker with Arduino projects. He fondly remembers what it was like to develop software for the Palm OS. He has an amazing wife and 5 wonderful children. He blogs at http://humbletoolsmith.com/ and you can follow him on twitter as @pottereric. '
+#   thumbnailUrl: Eric.jpeg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/pottereric"}
+# - 
+#   id: 6
+#   name: "Wolfgang"
+#   surname: "Goerlich"
+#   company: "CBI"
+#   title: "Sr. Vice President for Strategic Security Programs"
+#   bio: 'J Wolfgang Goerlich supports information security initiatives for clients in the healthcare, education, financial services, and energy verticals. In his current role with CBI, a cyber security consultancy firm, Wolfgang is the senior vice president for strategic security programs. Wolfgang also sponsors the Academy teams, providing mentoring and guidance to the junior-level talent. He is an active part of the security community and hosts a YouTube video series. Wolfgang regularly advises on and presents on the topics of risk management, incident response, business continuity, secure development life cycles, and more.'
+#   thumbnailUrl: wolfgang.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "https://twitter.com/jwgoerlich"}
