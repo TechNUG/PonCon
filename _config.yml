@@ -11,13 +11,13 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "PonCon 2018"
 email: "vp@technug.org"
-description: "PonCon is a one day single track conference .NET focused"
+description: "PonCon is a one day single track conference for I.T. professionals"
 baseurl: ""
 url: "http://poncon.us"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-123056971-3"
-# googleAnalyticsSiteUrl: "gdg-x.github.io"
-# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsSiteUrl: "poncon.us"
+siteVerification: "EKvkxVTS8IdedHVHhQfU7Jo_Rkdh0OKnI6xnkgl0ukI"
 
 # Organizer Info
 organizerName: "T.NUG"
@@ -28,7 +28,7 @@ organizerLogo: "/img/seo/tnug-logo.png"
 organizerLink: "https://www.meetup.com/Technology-Networking-User-Group/"
 
 # Head
-metaKeywords: "event, poncon, .NET, technug, tnug, t.nug, programming, developers, michigan, technology, networking"
+metaKeywords: "event, poncon, technug, tnug, t.nug, programming, developers, michigan, technology, networking, conference, i.t."
 twitterAccount: "@PontiacTechCon"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -41,9 +41,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
@@ -65,7 +65,7 @@ heroImage: "pon_con_banner_blk_background.jpg"
 # About Block
 aboutTitle: "About PonCon"
 aboutBlock:
- - { title: "", text: "The Technology and Networking User Group (T.NUG) presents the Pontiac Technology Conference (PonCon). For years T.NUG has been offering high quality monthly meetings for information technology professionals in and around Southeast Michigan. T.NUG is tackling it's next big adventure:: a one-day one-track conference open to our attendees. Affectionately nicknamed PonCon, the Pontiac Technology Conference will host a series of speakers at the brand new United Shore HQ in Pontiac, MI. You can expect excellent content, a catered lunch, and ample networking opportunities with your peers and fellow professionals in the area."}
+ - { title: "", text: "The Technology and Networking User Group (T.NUG) presents the Pontiac Technology Conference (PonCon). For years T.NUG has been offering high quality monthly meetings for information technology professionals in and around Southeast Michigan. T.NUG is tackling it's next big adventure: a one-day one-track conference open to our attendees. Affectionately nicknamed PonCon, the Pontiac Technology Conference will host a series of speakers at the brand new United Shore HQ in Pontiac, MI. You can expect excellent content, a catered lunch, and ample networking opportunities with your peers and fellow professionals in the area."}
 #  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
 #  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 #  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
@@ -88,6 +88,7 @@ rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
+showLocationBlock: false
 locationBlockTitle: "Location"
 eventLocationName: "United Shore"
 eventLocationLink: "https://www.unitedshore.com/"
@@ -96,19 +97,21 @@ eventAddressLocality: "Pontiac"
 eventAddressLocalityRegion: "MI"
 eventPostalCode: "48341"
 eventAddressCountry: "United States"
-eventStartTime: "2018-09-22T08:00"
+eventStartTime: "2018-09-22T08:00AM"
 eventDoorTime: "08:00"
-eventEndTime: "2018-09-22T18:00"
+eventEndTime: "2018-09-22T06:00PM"
 eventPlaceCoordinates: "42.37, 83.15"
 mapCenterCoordinates: "42.37, 83.15"
 mapMobileCenterCoordinates: "42.37, 83.15"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue.jpeg"
-# venueSmallImage1: "venue_1.jpg"
-# venueSmallImage2: "venue_2.jpg"
-# venueSmallImage3: "venue_3.jpg"
+#venueDescription: "United Shore is a diverse group of over 2,700 mortgage experts, sales superstars, tech gurus, marketing whizzes and more – all working toward the same goals. We’re home to the #1 wholesale mortgage lender in the country UWM, and maintain a world-class IT team that rivals anything Silicon Valley has to offer both in speed and innovation. We give you opportunity to craft new solutions, the technology to bring them to life and the freedom to have a lot of fun along the way."
+venueBigImage: "venue.jpg"
+venueSmallImage1: "venue_0.jpg"
+venueSmallImage2: "venue_1.jpg"
+venueSmallImage3: "venue_2.jpg"
+venueSmallImage4: "venue_3.jpg"
 venueTitle: "United Shore Headquarters"
 venueFeatures: ["585 South Blvd E", "Pontiac, MI 48341"]
 
@@ -117,6 +120,7 @@ tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "PonCon2018"
 twitterFeed: "https://twitter.com/PontiacTechCon"
+twitterAccountName: "PontiacTechCon"
 
 # Partners Block
 organizersTitle: "Organizer"
@@ -134,26 +138,26 @@ ticketsTitle: "Prices"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "No Food"
-  price: "$35"
+  name: "Conference Only"
+  price: "$20"
   priceCurrency: ""
   ticketsNumber: ""
-  ribbon: "-36%"
-  buyButtonLink: "http://poncon.eventbrite.com"
+  ribbon: "-$15"
+  buyButtonLink: "http://poncon.eventbrite.com#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "This is an option if you are looking for a lower price point"
-  ticketContentList: ["Great Content", "Great Swag"]
+  ticketContentList: ["Admission only", "Does not include lunch"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-09-21T23:59"
  -
-  name: "Normal"
-  price: "$55"
+  name: "Standard"
+  price: "$35"
   priceCurrency: ""
   ticketsNumber: ""
   featured: true
-  buyButtonLink: "http://poncon.eventbrite.com"
+  buyButtonLink: "http://poncon.eventbrite.com#tickets"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Great Content", "Great Swag", "Breakfast & Lunch"]
+  ticketContentList: ["Standard ticket", "Includes breakfast and lunch"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-09-15T23:59"
  -
@@ -161,10 +165,10 @@ ticketsOffers:
   price: "$12.50"
   priceCurrency: ""
   ticketsNumber: ""
-  buyButtonLink: "http://poncon.eventbrite.com"
+  buyButtonLink: "http://poncon.eventbrite.com#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "Add the after party to your ticket"
-  ticketContentList: ["Great Food", "Networking"]
+  ticketContentList: ["Join us for the after party", "Network with the speakers"]
   validFrom: "2018-08-01T00:00"
   validThrough: "2018-09-15T23:59"
   # soldOut: true
@@ -202,18 +206,6 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "We are a professional group of software developers collaborating to hone our craft and have fun. Look forward to the talks and the food!"
-
-# # Logistics Find Way Block
-# findWayTitle: "Find your way here"
-# findWayDistance: "Distance"
-# findWayDriving: "DRIVING"
-# findWayWalking: "WALKING"
-# findWayBicycling: "BICYCLING"
-# findWayTransit: "TRANSIT"
-# findWayFindFlight: "Find Flight"
-# logisticsMapCenterCoordinates: "49.056728, 3.117289"
-# logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-# logisticsMapAutoDirections: false
 
 # # Logistics Direction Details Block
 # directionDetailsImage: "direction-details.jpg"

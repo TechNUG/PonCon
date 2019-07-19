@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Food has been announced"
+title:  "What's on the menu"
 date:   2018-08-15 11:00:00
 isStaticPost: false
 ---

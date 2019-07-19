@@ -9,14 +9,8 @@
     
 } */
 
-.top-section {
-	min-height: 450px;
-}
-
 .fill {
-    overflow: hidden;
-    background-size: cover;
-    background-position: center;
+    background-size: 100% 100%;
 }
 
 .right-nav-button {
