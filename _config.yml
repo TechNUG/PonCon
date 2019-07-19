@@ -184,7 +184,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+  #  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
    - {link: "https://www.meetup.com/Technology-Networking-User-Group/", text: "Meetup"}
  -
   title: "Contacts"
