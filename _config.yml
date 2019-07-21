@@ -47,10 +47,10 @@ navigationLinks:
 #  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
-# bottomNavigationLinks:
-#  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
-# rightNavigationButtons:
-#  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+bottomNavigationLinks:
+ - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+rightNavigationButtons:
+ - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
 
 # Hero Block
 # heroImage: "pon con primary logo_final.png"
@@ -60,7 +60,7 @@ heroImage: "pon_con_banner_blk_background.jpg"
 # typeoutTextValues: '"", "2018"'
 # typeoutFallback: "2018"
 # heroButtons:
-  # - {link: "http://poncon.eventbrite.com", text: "Buy tickets"}
+#   - {link: "http://poncon.eventbrite.com", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About PonCon"
@@ -134,43 +134,43 @@ partnersTitle: "Sponsors"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-# ticketsTitle: "Prices"
-# ticketsInfo: ""
-# ticketsOffers:
-#  -
-#   name: "Conference Only"
-#   price: "$20"
-#   priceCurrency: ""
-#   ticketsNumber: ""
-#   ribbon: "-$15"
-#   buyButtonLink: "http://poncon.eventbrite.com#tickets"
-#   buyButtonText: "Buy Now"
-#   additionalInfo: "This is an option if you are looking for a lower price point"
-#   ticketContentList: ["Admission only", "Does not include lunch"]
-#   validFrom: "2018-08-01T00:00"
-#   validThrough: "2018-09-21T23:59"
-#  -
-#   name: "Standard"
-#   price: "$35"
-#   priceCurrency: ""
-#   ticketsNumber: ""
-#   featured: true
-#   buyButtonLink: "http://poncon.eventbrite.com#tickets"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Standard ticket", "Includes breakfast and lunch"]
-#   validFrom: "2018-08-01T00:00"
-#   validThrough: "2018-09-15T23:59"
+ticketsTitle: "Prices"
+ticketsInfo: ""
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "$70"
+  priceCurrency: ""
+  ticketsNumber: ""
+  ribbon: "-$15"
+  buyButtonLink: "https://poncon2019.eventbrite.com#tickets"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Great deal!  Lock in this low rate while they last"
+  ticketContentList: ["Early bird ticket", "Includes breakfast and lunch"]
+  validFrom: "2019-07-21T07:00"
+  validThrough: "2019-08-16T20:00"
+ -
+  name: "Standard"
+  price: "$85"
+  priceCurrency: ""
+  ticketsNumber: ""
+  featured: true
+  buyButtonLink: "https://poncon2019.eventbrite.com#tickets"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Standard ticket", "Includes breakfast and lunch"]
+  validFrom: "2019-08-16T20:00"
+  validThrough: "2019-09-13T17:00"
 #  -
 #   name: "After Party Admission"
 #   price: "$12.50"
 #   priceCurrency: ""
 #   ticketsNumber: ""
-#   buyButtonLink: "http://poncon.eventbrite.com#tickets"
+#   buyButtonLink: "https://poncon2019.eventbrite.com#tickets"
 #   buyButtonText: "Buy Now"
 #   additionalInfo: "Add the after party to your ticket"
 #   ticketContentList: ["Join us for the after party", "Network with the speakers"]
-#   validFrom: "2018-08-01T00:00"
-#   validThrough: "2018-09-15T23:59"
+#   validFrom: "2019-08-01T00:00"
+#   validThrough: "2019-09-15T23:59"
   # soldOut: true
   # soldOutText: "Sold Out"
 
