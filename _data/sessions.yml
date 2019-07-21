@@ -1,108 +1,99 @@
-# -
-#   id: 001
-#   title: "Becoming a Servant Leader, Leading from the Trenches"
-#   description: "When you're doing the work alongside those you manage, you may be seen as a servant leader. But what does that mean? What is servant leadership? Sam Walton of Walmart, Jack Kahl of Manco (Duck Tape), and many others have blazed this trail. For those of us who enjoy both our tech and management roles, servant leadership is something to understand how we can best serve those that we lead while in the trenches alongside them. In this session, we will explore what makes a great servant leader and how we can stay techies while being managers as well."
-#   subtype: session
-#   speakers: [1]
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 002
-#   title: "Let’s Talk About Mental Health"
-#   description: "It’s a great time to be in technology. And yet despite the improvement in our tools, we somehow don’t spend time talking about how to maintain our most important tool - the one between our ears. Your mental health is arguably the single most important factor in your ability to perform well, avoid burnout, and build resiliency, but we shroud the topic in secrecy, stigma, and co-opted clinical language that makes us think we know what's going on. We often don't even speak of what we feel to family and friends until we're facing a crisis."
-#   subtype: session
-#   speakers: [2]
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 003
-#   title: "The Microservice Manifesto"
-#   description: "Microservices have been a hot-button topic for a few years, but what are they, why would I need them, and how will they help me? The Microservice Manifesto sets out to put forward an opinionated but dogma-free approach to bringing Microservices into your organization regardless of language or technology stack that will help you get products delivered faster, more securely, and error free."
-#   subtype: session
-#   speakers: [3]
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 004
-#   title: "From Developer to Data Scientist"
-#   description: "Due to recent advances in technology, humanity is collecting vast amounts of data at an unprecedented rate, making the skills necessary to mine insights from this data increasingly valuable. So what does it take for a Developer to enter the world of data science?   Join me on a journey into the world of big data and machine learning where we will explore what the work actually looks like, identify which skills are most important, and design a road map for how you too can join this exciting and profitable industry."
-#   subtype: session
-#   speakers: [4]
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 005
-#   title: "Machine Learning the Easy Way: Azure Cognitive Services"
-#   description: "Machine Learning is revolutionizing how we process data. But the learning curve on machine learning algorithms can be steep. Luckily, Azure Cognitive Services provides a way for developers to analyze images, videos, and text with nothing more than a call to a REST API. Take advantage of powerful machine learning models just by calling one of the services. In this session, you will learn what services are available and how you can use them."
-#   subtype: session
-#   speakers: [5]
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 006
-#   title: "Securing without Slowing: DevOps"
-#   description: "We turn to DevOps for speed. We turn to Cloud for flexibility. We adopt faster, leaner, more collaborative processes to drive change. And then? We turn to information security for protection. But can we secure the technology without slowing the pace? This session presents an entirely fictional development organization adopting DevOps. We will discuss which traditional software security processes work, and which ones fail entirely. Awareness training, muscle memory, culture shifts, all will be brought together. The presentation will conclude with take-aways for applying security to your DevOps team without slowing down."
-#   subtype: session
-#   speakers: [6]
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 007
-#   title: "Break"
-#   description: ""
-#   subtype: session
-#   speakers: null
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 008
-#   title: "Lunch - Southern BBQ Buffet"
-#   description: "Southern BBQ Buffet with Pulled Pork, Spiced Bone-in Chicken, Slider Buns with two sides and baked cookies for desert."
-#   subtype: session
-#   speakers: null
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 009
-#   title: "Registration and Breakfast"
-#   description: ""
-#   subtype: session
-#   speakers: null
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 010
-#   title: "Opening Remarks"
-#   description: ""
-#   subtype: session
-#   speakers: null
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 011
-#   title: "Closing Remarks"
-#   description: ""
-#   subtype: session
-#   speakers: null
-#   language: null
-#   complexity: null
-#   video: null
-# -
-#   id: 012
-#   title: "After Party"
-#   description: ""
-#   subtype: session
-#   speakers: null
-#   language: null
-#   complexity: null
-#   video: null
+-
+  id: 001
+  title: "Session 1"
+  description: "TBD"
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 002
+  title: "Session 2"
+  description: "TBD"
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 003
+  title: "Session 3"
+  description: "TBD"
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 004
+  title: "Session 4"
+  description: "TBD"
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 005
+  title: "Session 5"
+  description: "TBD"
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 007
+  title: "Break"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 008
+  title: "Lunch - BBQ Buffet"
+  description: "Details TBD."
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 009
+  title: "Registration and Breakfast"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 010
+  title: "Opening Remarks"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 011
+  title: "Closing Remarks"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null
+-
+  id: 012
+  title: "After Party"
+  description: ""
+  subtype: session
+  speakers: null
+  language: null
+  complexity: null
+  video: null

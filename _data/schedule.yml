@@ -1,6 +1,6 @@
 - 
-  date: "2018-09-22"
-  dateReadable: "September 22nd"
+  date: "2019-09-28"
+  dateReadable: "September 28nd"
   tracks: 
     - {title: "Schedule", color: "#e91e63"}
   timeslots:
@@ -21,42 +21,42 @@
     }
     - {
         startTime: "10:55",
-        endTime: "11:00",
+        endTime: "11:10",
         sessionIds: [007]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:55",
-        sessionIds: [004]
+        startTime: "11:10",
+        endTime: "12:05",
+        sessionIds: [002]
     }
     - {
-        startTime: "11:55",
-        endTime: "01:00",
+        startTime: "12:20",
+        endTime: "01:20",
         sessionIds: [008]
     }
     - {
-        startTime: "01:00",
-        endTime: "01:55",
-        sessionIds: [006]
-    }
-    - {
-        startTime: "01:55",
-        endTime: "02:00",
-        sessionIds: [007]
-    }
-    - {
-        startTime: "02:00",
-        endTime: "02:55",
+        startTime: "01:20",
+        endTime: "02:15",
         sessionIds: [003]
     }
     - {
-        startTime: "02:55",
-        endTime: "03:00",
+        startTime: "02:15",
+        endTime: "02:30",
         sessionIds: [007]
     }
     - {
-        startTime: "03:00",
-        endTime: "03:55",
+        startTime: "02:30",
+        endTime: "03:25",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "03:25",
+        endTime: "03:40",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "03:40",
+        endTime: "04:35",
         sessionIds: [005]
     }
     - {
