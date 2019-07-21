@@ -144,7 +144,7 @@ ticketsOffers:
   ticketsNumber: ""
   ribbon: "-$15"
   buyButtonLink: "https://poncon.eventbrite.com#tickets"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Buy Now While they Last"
   additionalInfo: "Great deal!  Lock in this low rate while they last"
   ticketContentList: ["Early bird ticket - ONLY 30 Available!", "Includes breakfast and lunch"]
   validFrom: "2019-07-21T07:00"
