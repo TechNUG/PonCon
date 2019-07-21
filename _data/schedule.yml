@@ -1,6 +1,6 @@
 - 
   date: "2019-09-28"
-  dateReadable: "September 28nd"
+  dateReadable: "September 28th"
   tracks: 
     - {title: "Schedule", color: "#e91e63"}
   timeslots:
