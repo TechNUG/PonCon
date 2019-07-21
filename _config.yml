@@ -48,9 +48,9 @@ navigationLinks:
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+ - {link: "https://poncon.eventbrite.com#tickets", text: "Buy Tickets"}
 rightNavigationButtons:
- - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+ - {link: "https://poncon.eventbrite.com#tickets", text: "Buy Tickets"}
 
 # Hero Block
 # heroImage: "pon con primary logo_final.png"
@@ -143,7 +143,7 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: ""
   ribbon: "-$15"
-  buyButtonLink: "https://poncon2019.eventbrite.com#tickets"
+  buyButtonLink: "https://poncon.eventbrite.com#tickets"
   buyButtonText: "Buy Now"
   additionalInfo: "Great deal!  Lock in this low rate while they last"
   ticketContentList: ["Early bird ticket", "Includes breakfast and lunch"]
@@ -155,7 +155,7 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: ""
   featured: true
-  buyButtonLink: "https://poncon2019.eventbrite.com#tickets"
+  buyButtonLink: "https://poncon.eventbrite.com#tickets"
   buyButtonText: "Buy Now"
   ticketContentList: ["Standard ticket", "Includes breakfast and lunch"]
   validFrom: "2019-08-16T20:00"
@@ -165,7 +165,7 @@ ticketsOffers:
 #   price: "$12.50"
 #   priceCurrency: ""
 #   ticketsNumber: ""
-#   buyButtonLink: "https://poncon2019.eventbrite.com#tickets"
+#   buyButtonLink: "https://poncon.eventbrite.com#tickets"
 #   buyButtonText: "Buy Now"
 #   additionalInfo: "Add the after party to your ticket"
 #   ticketContentList: ["Join us for the after party", "Network with the speakers"]
@@ -184,7 +184,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-  #  - {link: "http://poncon.eventbrite.com", text: "Buy Tickets"}
+   - {link: "https://poncon.eventbrite.com", text: "Buy Tickets"}
    - {link: "https://www.meetup.com/Technology-Networking-User-Group/", text: "Meetup"}
  -
   title: "Contacts"
